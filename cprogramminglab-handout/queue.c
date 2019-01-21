@@ -30,6 +30,7 @@ queue_t *q_new()
     return q;
 }
 
+/*hello*/
 /* Free all storage used by queue */
 void q_free(queue_t *q)
 {
